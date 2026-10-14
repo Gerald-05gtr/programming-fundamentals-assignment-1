@@ -56,3 +56,18 @@ Submit your own public GitHub repository URL, for example:
 `https://github.com/YOUR-USERNAME/programming-fundamentals-assignment-1`
 
 The sample URL above is not a real repository. Create your repository and replace it with its actual URL.
+## Python Exercises
+
+The Python console application contains three tasks:
+
+1. Calculator — performs addition, subtraction,
+   multiplication and division.
+2. Temperature converter — converts between
+   Celsius and Fahrenheit.
+3. Student grade average — calculates the
+   average grade and checks whether the
+   student has passed.
+
+Run the program using:
+
+python python/main.py
