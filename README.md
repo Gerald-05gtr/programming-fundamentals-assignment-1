@@ -70,4 +70,29 @@ The Python console application contains three tasks:
 
 Run the program using:
 
-python python/main.py
+python python/main.py 
+## C# Exercises
+
+The C# console application implements three programming tasks:
+
+1. Simple two-number calculator using arithmetic operators and conditional statements.
+2. Celsius and Fahrenheit temperature converter using conditional statements.
+3. Student grade average calculator using a for loop and pass/fail conditions.
+
+The application also provides an interactive menu using a switch statement.
+
+### Running the C# application
+
+Requirements:
+- .NET 8 SDK or a compatible newer SDK
+- .NET 8 Runtime
+
+Run the application:
+
+dotnet run --project csharp/ProgrammingFundamentals.csproj
+
+### Expected results
+
+- Calculator: 10 + 20 = 30
+- Temperature: 0°C = 32°F
+- Student grades: 5, 3, 4, 2 → Average: 3.50 (Passed)
